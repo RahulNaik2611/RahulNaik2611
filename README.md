@@ -2,9 +2,9 @@
 <div align="center">
   
 🎯 **Full-Time Opportunities** in **Data Analysis** & **Software Development**  
-🔥 **Building** with **Python**, **Java**, **Data Viz** | **Mastering ML & Cloud**  
+🔥 **Building** with **Python**, **Java**, **Data Viz**  
 💡 **Open to Collabs** & **Open-Source Contributions**  
-🎮 **Esports Fanatic** (Valorant, CS:GO) | **Coffee Enthusiast** ☕  
+🎮 **Esports Fanatic** (Pubg) | **Coffee Enthusiast** ☕  
 
 </div>
 
