@@ -1,96 +1,93 @@
-# 🚀 Rahul Naik's Supercharged GitHub Profile
+# 💻 Rahul Naik | Backend & Data Specialist
 
 <div align="center">
   
-🎯 **Seeking Roles in**: Data Science | Backend Engineering | Cloud Solutions  
-🔥 **Tech Stack**: Python, Java, Spark, AWS, PowerBI  
-💡 **Passions**: Open Source | ML Engineering | Data Visualization  
-🌱 **Currently Learning**: LLMs | Kubernetes | Data Engineering  
+🚀 **Specializing in**: Spring Boot Microservices | Django REST APIs | Data Analysis  
+📊 **Tech Stack**: Java, Python, SQL, Power BI, PostgreSQL  
+🌱 **Currently Learning**: Advanced Microservices Patterns | Data Engineering  
 
 </div>
 
 ---
 
-## 🌌 3D Code Galaxy Visualization
+## 🛠️ Core Technical Skills
 
-[![3D Contribution Graph](https://github-readme-3d-git-profile.vercel.app/profile?username=RahulNaik2611&theme=dracula)](https://github.com/RahulNaik2611)
+### 🔷 **Backend Development**
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-009688?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+</div>
+
+### 🐍 **Python & Data Tools**
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+### 🗃️ **Databases**
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack Breakdown
-
-```mermaid
-pie
-    title Tech Stack Distribution
-    "Java/Spring" : 35
-    "Python/Data" : 40
-    "Cloud/DevOps" : 15
-    "Visualization" : 10
-```
-
----
-
-## 📊 Dynamic Skill Matrix
-
-```mermaid
-radarChart
-    title "Skill Proficiency"
-    axis "Languages", "Data", "Cloud", "DevOps", "Viz"
-    "Java" 90, "Python" 95, "SQL" 85
-    "Pandas" 88, "Spark" 80, "PowerBI" 92
-    "AWS" 75, "Docker" 82
-    "Git" 90, "CI/CD" 78
-    "Tableau" 85, "Matplotlib" 88
-```
-
----
-
-## ⚡ Real-Time Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RahulNaik2611&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RahulNaik2611&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=RahulNaik2611&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/RahulNaik2611)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulNaik2611&show_icons=true&theme=dark&hide_border=true)](https://github.com/RahulNaik2611)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNaik2611&layout=compact&theme=nightowl&hide_border=true&langs_count=6)](https://github.com/RahulNaik2611)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNaik2611&layout=compact&theme=dark&hide_border=true)](https://github.com/RahulNaik2611)
 
 </div>
 
 ---
 
-## 🌟 Contribution Heatmap
+## 🏆 Technical Proficiencies
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulNaik2611&theme=react-dark&hide_border=true&area=true)](https://github.com/RahulNaik2611)
-
----
-
-## 🏆 Interactive Trophy Case
-
-[![Trophy Case](https://github-profile-trophy.vercel.app/?username=RahulNaik2611&theme=gruvbox&rank=SSS,SS,S,AAA,AA,A,B&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+| Area              | Technologies                          | Confidence Level |
+|-------------------|---------------------------------------|------------------|
+| **Java Ecosystem**| Spring Boot, Microservices            | ⭐⭐⭐⭐⭐         |
+| **Python Stack**  | Django, Django REST Framework         | ⭐⭐⭐⭐          |
+| **Databases**     | PostgreSQL, MongoDB, SQL             | ⭐⭐⭐⭐          |
+| **Data Tools**    | Power BI, Excel                       | ⭐⭐⭐⭐          |
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 10px;">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px;">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulNaik2611&repo=project1&theme=algolia)](https://github.com/RahulNaik2611/project1)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=RahulNaik2611&repo=spring-microservice-demo&theme=dark)](https://github.com/RahulNaik2611/spring-microservice-demo)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulNaik2611&repo=project2&theme=algolia)](https://github.com/RahulNaik2611/project2)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=RahulNaik2611&repo=django-rest-api&theme=dark)](https://github.com/RahulNaik2611/django-rest-api)
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 📫 Let's Connect
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![LeetCode](https://custom-icon-badges.demolab.com/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
-[![Email](https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banavathrahulnaik26@gmail.com)
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulnaik-banavath-293699367)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banavathrahulnaik26@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
 
 </div>
 
@@ -98,6 +95,6 @@ radarChart
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=RahulNaik2611&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=RahulNaik2611&label=Profile+Views&color=blueviolet&style=flat-square)
 
 </div>
