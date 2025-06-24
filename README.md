@@ -59,17 +59,6 @@ pie
 
 ---
 
-## 🧠 **GitHub Analytics Dashboard**
-
-<div align="center">
-
-[![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulNaik2611&show_icons=true&theme=tokyonight)](https://github.com/RahulNaik2611)
-
-
-</div>
-
----
-
 ## 🚀 **Project Impact Metrics**
 
 | Project              | Stars | Forks | Contributors | Activity |
