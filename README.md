@@ -76,12 +76,15 @@ pie
 
 ---
 
-## 🚀 **Project Impact Metrics**
+## 🚀 Best Work & Project Impact Metrics
 
-| Project              | Stars | Forks | Contributors | Activity |
-|----------------------|-------|-------|--------------|----------|
-| Spring Microservices | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/spring-microservice-demo?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/spring-microservice-demo?style=flat-square) | ![Contributors](https://img.shields.io/github/contributors/RahulNaik2611/spring-microservice-demo?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/spring-microservice-demo?style=flat-square) |
-| Django REST API      | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/django-rest-api?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/django-rest-api?style=flat-square) | ![Contributors](https://img.shields.io/github/contributors/RahulNaik2611/django-rest-api?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/django-rest-api?style=flat-square) |
+| 🚧 Project | ⭐ Stars | 🍴 Forks | ⏱️ Last Commit | 🔗 Link |
+|-----------|----------|-----------|----------------|--------|
+| 🏛️ **Library Management System** <br> Spring Boot CRUD | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/Library_Management?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/Library_Management?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/Library_Management?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/Library_Management) |
+| 🗳️ **Voting App** <br> Java MVC + Spring Concepts | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/Voting_App?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/Voting_App?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/Voting_App?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/Voting_App) |
+| 📝 **Todo Tracker** <br> REST API + JSON Handling | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/Todo_App?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/Todo_App?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/Todo_App?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/Todo_App) |
+| 🧮 **SpringBoot Calculator** <br> Backend Logic & REST | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/SpringBoot_Calculator?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/SpringBoot_Calculator?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/SpringBoot_Calculator?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/SpringBoot_Calculator) |
+
 
 ---
 
