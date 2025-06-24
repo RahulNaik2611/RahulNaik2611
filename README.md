@@ -10,6 +10,7 @@
 ---
 
 ## 🌟 **Skill Radar Chart** *(Interactive)*
+
 ```mermaid
 %%{init: {'theme':'dark', 'fontFamily':'Segoe UI'}}%%
 radarChart
@@ -21,16 +22,6 @@ radarChart
     "Docker" 6, "AWS" 5
     "Data Modeling" 7, "Dashboards" 8
 ```
-
----
-
-## 📊 **GitHub Analytics Dashboard**
-
-<div align="center">
-
-[![3D Contribution Map](https://metrics.lecoq.io/RahulNaik2611?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&notable=1&lines=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata)](https://github.com/RahulNaik2611)
-
-</div>
 
 ---
 
@@ -47,12 +38,36 @@ pie
 
 ---
 
+## 🏅 **GitHub Stats, Streak & Top Languages**
+
+<div align="center">
+
+[![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulNaik2611&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/RahulNaik2611)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RahulNaik2611&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNaik2611&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/RahulNaik2611)
+
+</div>
+
+---
+
+## 🧠 **GitHub Analytics Dashboard**
+
+<div align="center">
+
+[![3D Contribution Map](https://metrics.lecoq.io/RahulNaik2611?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&notable=1&lines=1&repositories=1&repositories.batch=100&config.timezone=Asia%2FKolkata)](https://github.com/RahulNaik2611)
+
+</div>
+
+---
+
 ## 🚀 **Project Impact Metrics**
 
-| Project          | Stars | Forks | Contributors | Activity |
-|------------------|-------|-------|--------------|----------|
+| Project              | Stars | Forks | Contributors | Activity |
+|----------------------|-------|-------|--------------|----------|
 | Spring Microservices | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/spring-microservice-demo?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/spring-microservice-demo?style=flat-square) | ![Contributors](https://img.shields.io/github/contributors/RahulNaik2611/spring-microservice-demo?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/spring-microservice-demo?style=flat-square) |
-| Django REST API  | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/django-rest-api?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/django-rest-api?style=flat-square) | ![Contributors](https://img.shields.io/github/contributors/RahulNaik2611/django-rest-api?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/django-rest-api?style=flat-square) |
+| Django REST API      | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/django-rest-api?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/django-rest-api?style=flat-square) | ![Contributors](https://img.shields.io/github/contributors/RahulNaik2611/django-rest-api?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/django-rest-api?style=flat-square) |
 
 ---
 
@@ -66,9 +81,11 @@ pie
 
 ---
 
-## 🏆 **Achievement Badges**
+## 🏆 **Trophy Wall & Achievements**
 
 <div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=RahulNaik2611&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&title=Stars,Commits,Followers,Repositories,PullRequest,Issues)](https://github.com/RahulNaik2611)
 
 ![Spring Expert](https://img.shields.io/badge/-Spring%20Expert-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![API Ninja](https://img.shields.io/badge/-API%20Ninja-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
