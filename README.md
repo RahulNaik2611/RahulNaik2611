@@ -63,7 +63,8 @@ pie
 
 <div align="center">
 
-[![3D Contribution Map](https://metrics.lecoq.io/RahulNaik2611?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&notable=1&lines=1&repositories=1&repositories.batch=100&config.timezone=Asia%2FKolkata)](https://github.com/RahulNaik2611)
+[![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulNaik2611&show_icons=true&theme=tokyonight)](https://github.com/RahulNaik2611)
+
 
 </div>
 
