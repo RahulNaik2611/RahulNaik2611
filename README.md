@@ -1,11 +1,28 @@
-# 💻 Rahul Naik | Backend & Data Engineer
-
 <div align="center">
 
-🚀 **Spring Boot Specialist** | **Django REST Expert** | **Power BI Analyst**  
-📈 **Data Storyteller** | **Microservices Architect** | **Database Optimizer**  
+<h1 style="font-size: 3rem; font-family: 'Segoe UI', sans-serif;">🚀 Rahul Naik</h1>
+<h3 style="font-weight: normal; font-size: 1.5rem; color: #a9b1d6;">
+  Backend & Data Engineer
+</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Spring+Boot+Specialist;Django+REST+Expert;Power+BI+Analyst;Microservices+Architect;Data+Storyteller;Database+Optimizer" alt="Typing SVG" />
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-Specialist-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-Expert-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-Architect-blue?style=for-the-badge&logo=microgenetics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-Storyteller-purple?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-Optimizer-red?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 </div>
+
 
 ---
 
