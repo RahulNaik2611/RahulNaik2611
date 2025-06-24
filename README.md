@@ -9,19 +9,26 @@
 
 ---
 
-## 🌟 **Skill Radar Chart** *(Interactive)*
+## 🔧 Skill Proficiency Breakdown
 
-```mermaid
-%%{init: {'theme':'dark', 'fontFamily':'Segoe UI'}}%%
-radarChart
-    title "Technical Proficiency"
-    axis "Backend", "Data", "APIs", "Cloud", "Visualization"
-    "Spring Boot" 9, "Django" 8, "Microservices" 8
-    "PostgreSQL" 8, "MongoDB" 7, "Power BI" 8
-    "REST APIs" 9, "SQL" 9, "Excel" 8
-    "Docker" 6, "AWS" 5
-    "Data Modeling" 7, "Dashboards" 8
-```
+### 🧠 Backend & API
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-9/10-brightgreen)
+- ![Django](https://img.shields.io/badge/Django-8/10-yellow)
+- ![REST APIs](https://img.shields.io/badge/REST_API-9/10-brightgreen)
+
+### 💾 Data & Databases
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8/10-blue)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-7/10-green)
+- ![SQL](https://img.shields.io/badge/SQL-9/10-purple)
+
+### 📊 Data Visualization
+- ![Power BI](https://img.shields.io/badge/Power_BI-8/10-yellow)
+- ![Excel](https://img.shields.io/badge/Excel-8/10-green)
+
+### ☁️ Cloud & DevOps
+- ![Docker](https://img.shields.io/badge/Docker-6/10-blue)
+- ![AWS](https://img.shields.io/badge/AWS-5/10-orange)
+
 
 ---
 
