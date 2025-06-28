@@ -41,9 +41,6 @@
 - ![Power BI](https://img.shields.io/badge/Power_BI-8%2F10-yellow)
 - ![Excel](https://img.shields.io/badge/Excel-8%2F10-green)
 
-### ☁️ Cloud & DevOps
-- ![Docker](https://img.shields.io/badge/Docker-6%2F10-blue)
-- ![AWS](https://img.shields.io/badge/AWS-5%2F10-orange)
 
 ---
 
@@ -66,7 +63,8 @@ pie
 
 [![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulNaik2611&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/RahulNaik2611)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RahulNaik2611&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RahulNaik2611&theme=radical&border_radius=10&fire=FF00FF&sideNums=00FF00&currStreakNum=00FFFF&ring=FF00FF&background=0D1117&hide_border=false&border=30DD20&stroke=FF00FF)](https://git.io/streak-stats)
+
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNaik2611&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/RahulNaik2611)
 
