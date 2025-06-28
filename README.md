@@ -1,13 +1,13 @@
+
 <div align="center">
 
-<h1 style="font-size: 3rem; font-family: 'Segoe UI', sans-serif;">🚀 Rahul Naik</h1>
-<h3 style="font-weight: normal; font-size: 1.5rem; color: #a9b1d6;">
-  Backend & Data Engineer
-</h3>
+# 🚀 Rahul Naik
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Spring+Boot+Specialist;Django+REST+Expert;Power+BI+Analyst;Microservices+Architect;Data+Storyteller;Database+Optimizer" alt="Typing SVG" />
+### Backend & Data Engineer
 
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Spring+Boot+Specialist;Django+REST+Expert;Power+BI+Analyst;Microservices+Architect;Data+Storyteller;Database+Optimizer)](https://git.io/typing-svg)
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-Specialist-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -23,33 +23,31 @@
 
 </div>
 
-
 ---
 
 ## 🔧 Skill Proficiency Breakdown
 
 ### 🧠 Backend & API
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-9/10-brightgreen)
-- ![Django](https://img.shields.io/badge/Django-8/10-yellow)
-- ![REST APIs](https://img.shields.io/badge/REST_API-9/10-brightgreen)
+- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-9%2F10-brightgreen)
+- ![Django](https://img.shields.io/badge/Django-8%2F10-yellow)
+- ![REST APIs](https://img.shields.io/badge/REST_API-9%2F10-brightgreen)
 
 ### 💾 Data & Databases
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8/10-blue)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-7/10-green)
-- ![SQL](https://img.shields.io/badge/SQL-9/10-purple)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8%2F10-blue)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-7%2F10-green)
+- ![SQL](https://img.shields.io/badge/SQL-9%2F10-purple)
 
 ### 📊 Data Visualization
-- ![Power BI](https://img.shields.io/badge/Power_BI-8/10-yellow)
-- ![Excel](https://img.shields.io/badge/Excel-8/10-green)
+- ![Power BI](https://img.shields.io/badge/Power_BI-8%2F10-yellow)
+- ![Excel](https://img.shields.io/badge/Excel-8%2F10-green)
 
 ### ☁️ Cloud & DevOps
-- ![Docker](https://img.shields.io/badge/Docker-6/10-blue)
-- ![AWS](https://img.shields.io/badge/AWS-5/10-orange)
-
+- ![Docker](https://img.shields.io/badge/Docker-6%2F10-blue)
+- ![AWS](https://img.shields.io/badge/AWS-5%2F10-orange)
 
 ---
 
-## 🛠️ **Tech Stack Galaxy**
+## 🛠️ Tech Stack Galaxy
 
 ```mermaid
 pie
@@ -62,7 +60,7 @@ pie
 
 ---
 
-## 🏅 **GitHub Stats, Streak & Top Languages**
+## 🏅 GitHub Stats & Streak
 
 <div align="center">
 
@@ -76,29 +74,28 @@ pie
 
 ---
 
-## 🚀 Best Work & Project Impact Metrics
+## 🚀 Best Projects & Impact Metrics
 
 | 🚧 Project | ⭐ Stars | 🍴 Forks | ⏱️ Last Commit | 🔗 Link |
 |-----------|----------|-----------|----------------|--------|
 | 🏛️ **Library Management System** <br> Spring Boot CRUD | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/Library_Management?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/Library_Management?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/Library_Management?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/Library_Management) |
-| 🗳️ **Voting App** <br> Java MVC + Spring Concepts | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/Voting_App?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/Voting_App?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/Voting_App?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/Voting_App) |
-| 📝 **Todo Tracker** <br> REST API + JSON Handling | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/Todo_App?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/Todo_App?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/Todo_App?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/Todo_App) |
-| 🧮 **SpringBoot Calculator** <br> Backend Logic & REST | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/SpringBoot_Calculator?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/SpringBoot_Calculator?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/SpringBoot_Calculator?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/SpringBoot_Calculator) |
-
+| 🗳️ **Voting App** <br> Java MVC + Spring | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/Voting_App?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/Voting_App?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/Voting_App?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/Voting_App) |
+| 📝 **Todo Tracker** <br> REST API + JSON | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/Todo_App?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/Todo_App?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/Todo_App?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/Todo_App) |
+| 🧮 **SpringBoot Calculator** <br> Backend & REST | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/SpringBoot_Calculator?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/SpringBoot_Calculator?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/SpringBoot_Calculator?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/SpringBoot_Calculator) |
 
 ---
 
-## 📈 **Code Activity Heatmap**
+## 📈 Development Timeline
 
 <div align="center">
 
-[![Code Timeline](https://github-readme-activity-graph.vercel.app/graph?username=RahulNaik2611&theme=react-dark&area=true&custom_title=My+Development+Timeline)](https://github.com/RahulNaik2611)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulNaik2611&theme=react-dark&area=true&custom_title=My+Development+Timeline)](https://github.com/RahulNaik2611)
 
 </div>
 
 ---
 
-## 🏆 **Trophy Wall & Achievements**
+## 🏆 Trophy Wall
 
 <div align="center">
 
@@ -112,15 +109,19 @@ pie
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌐 Connect With Me
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-Deep_Dive-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn)](https://www.linkedin.com/in/rahulnaik-banavath-293699367)
-[![Email](https://custom-icon-badges.demolab.com/badge/-Collaborate-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Email)](mailto:banavathrahulnaik26@gmail.com)
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/-My_Work-FF7139?style=for-the-badge&logo=firefox&logoColor=white&label=Portfolio)](https://your-portfolio.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahulnaik-banavath-293699367">
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" />
+  </a>
+  <a href="mailto:banavathrahulnaik26@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Email" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&label=Portfolio" />
+  </a>
+</p>
 
 ---
 
