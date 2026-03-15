@@ -18,7 +18,7 @@ I completed my **B.Tech in Mechanical Engineering (2022)** but
 discovered my real passion in **software engineering and data systems**.
 
 My career journey began as a **PHP Developer**, and later I transitioned
-into a **Quality Engineer role at PwC** where I work with enterprise
+into a **Quality Engineer role **
 systems.
 
 Alongside my professional work, I have built strong expertise in:
