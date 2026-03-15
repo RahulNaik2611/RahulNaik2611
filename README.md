@@ -1,130 +1,131 @@
+::: {align="center"}
+# 🚀 B. Rahul Naik
 
-<div align="center">
+### Backend Developer \| Data Engineer \| Java & Spring Boot Enthusiast
 
-# 🚀 Rahul Naik
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Specialist;SQL+and+Database+Engineer;Power+BI+Data+Analyst;Building+Scalable+APIs;Always+Learning+New+Tech)](https://git.io/typing-svg)
+:::
 
-### Backend & Data Engineer
+------------------------------------------------------------------------
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Spring+Boot+Specialist;Django+REST+Expert;Power+BI+Analyst;Microservices+Architect;Data+Storyteller;Database+Optimizer)](https://git.io/typing-svg)
+## 👨‍💻 My Story
 
----
+Hello! I'm **B. Rahul Naik**, a passionate **Backend Developer and Data
+Enthusiast** based in India.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-Specialist-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_REST-Expert-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+I completed my **B.Tech in Mechanical Engineering (2022)**, but my
+curiosity for technology led me into the world of **software development
+and data engineering**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microservices-Architect-blue?style=for-the-badge&logo=microgenetics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data-Storyteller-purple?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-Optimizer-red?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+My professional journey started as a **PHP Developer**, and later I
+transitioned into a **Quality Engineer role at PwC**. Along the way, I
+continuously invested time in learning **Java backend development,
+databases, and data analysis tools**.
 
-</div>
+Today I focus on building:
 
----
+-   Scalable **Spring Boot backend applications**
+-   Efficient **REST APIs**
+-   Optimized **SQL database systems**
+-   Insightful **Power BI dashboards**
 
-## 🔧 Skill Proficiency Breakdown
+I strongly believe in **continuous learning**, and I am currently
+exploring:
 
-### 🧠 Backend & API
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-9%2F10-brightgreen)
-- ![Django](https://img.shields.io/badge/Django-8%2F10-yellow)
-- ![REST APIs](https://img.shields.io/badge/REST_API-9%2F10-brightgreen)
+-   **Generative AI**
+-   **Advanced System Design**
+-   **Flask & Python APIs**
 
-### 💾 Data & Databases
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8%2F10-blue)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-7%2F10-green)
-- ![SQL](https://img.shields.io/badge/SQL-9%2F10-purple)
+------------------------------------------------------------------------
 
-### 📊 Data Visualization
-- ![Power BI](https://img.shields.io/badge/Power_BI-8%2F10-yellow)
-- ![Excel](https://img.shields.io/badge/Excel-8%2F10-green)
+# 🧠 Skills & Technologies
 
+## 🚀 Backend Development
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring
+Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST
+API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Servlets](https://img.shields.io/badge/Java_Servlets-red?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-blue?style=for-the-badge)
 
-## 🛠️ Tech Stack Galaxy
+## 🧩 Programming Languages
 
-```mermaid
-pie
-    title Tech Stack Distribution
-    "Java/Spring" : 45
-    "Python/Django" : 30
-    "Databases" : 15
-    "Data Viz" : 10
-```
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
----
+## 💾 Databases
 
-## 🏅 GitHub Stats & Streak
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
+## 📊 Data & Analytics
 
-[![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulNaik2611&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/RahulNaik2611)
+![Power
+BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RahulNaik2611&theme=radical&border_radius=10&fire=FF00FF&sideNums=00FF00&currStreakNum=00FFFF&ring=FF00FF&background=0D1117&hide_border=false&border=30DD20&stroke=FF00FF)](https://git.io/streak-stats)
+------------------------------------------------------------------------
 
+# 📚 Learning & Acknowledgements
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNaik2611&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/RahulNaik2611)
+### Special Thanks to **Data With Baraa**
 
-</div>
+Many of my **SQL skills and data analysis projects** were inspired by
+the excellent tutorials from **Data With Baraa**.
 
----
+His teaching style focuses on **real-world SQL problems, database
+design, and analytical thinking**, which helped me significantly
+strengthen my **SQL fundamentals and data analysis workflow**.
 
-## 🚀 Best Projects & Impact Metrics
+📺 YouTube: https://www.youtube.com/c/DatawithBaraa
 
-| 🚧 Project | ⭐ Stars | 🍴 Forks | ⏱️ Last Commit | 🔗 Link |
-|-----------|----------|-----------|----------------|--------|
-| 🏛️ **Library Management System** <br> Spring Boot CRUD | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/Library_Management?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/Library_Management?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/Library_Management?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/Library_Management) |
-| 🗳️ **Voting App** <br> Java MVC + Spring | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/Voting_App?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/Voting_App?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/Voting_App?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/Voting_App) |
-| 📝 **Todo Tracker** <br> REST API + JSON | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/Todo_App?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/Todo_App?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/Todo_App?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/Todo_App) |
-| 🧮 **SpringBoot Calculator** <br> Backend & REST | ![Stars](https://img.shields.io/github/stars/RahulNaik2611/SpringBoot_Calculator?style=flat-square) | ![Forks](https://img.shields.io/github/forks/RahulNaik2611/SpringBoot_Calculator?style=flat-square) | ![Last Commit](https://img.shields.io/github/last-commit/RahulNaik2611/SpringBoot_Calculator?style=flat-square) | [🔗 GitHub](https://github.com/RahulNaik2611/SpringBoot_Calculator) |
+------------------------------------------------------------------------
 
----
+# 🚀 Featured Projects
 
-## 📈 Development Timeline
+  -----------------------------------------------------------------------
+  Project                 Description             Tech
+  ----------------------- ----------------------- -----------------------
+  **Library Management    Full CRUD backend       Spring Boot, SQL
+  System**                system for managing     
+                          books and users         
 
-<div align="center">
+  **Voting Application**  MVC based voting system Java, Spring
+                          using Java & Spring     
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulNaik2611&theme=react-dark&area=true&custom_title=My+Development+Timeline)](https://github.com/RahulNaik2611)
+  **Todo Tracker API**    REST API based task     Java, REST
+                          management application  
 
-</div>
+  **Spring Boot           Simple backend          Spring Boot
+  Calculator API**        calculator service      
+  -----------------------------------------------------------------------
 
----
+Explore more projects here 👇
 
-## 🏆 Trophy Wall
+➡️ **https://github.com/RahulNaik2611**
 
-<div align="center">
+------------------------------------------------------------------------
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=RahulNaik2611&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&title=Stars,Commits,Followers,Repositories,PullRequest,Issues)](https://github.com/RahulNaik2611)
+# 📊 GitHub Stats
 
-![Spring Expert](https://img.shields.io/badge/-Spring%20Expert-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![API Ninja](https://img.shields.io/badge/-API%20Ninja-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
-![Data Alchemist](https://img.shields.io/badge/-Data%20Alchemist-01BEFE?style=for-the-badge&logo=powerbi&logoColor=white)
+![Rahul's GitHub
+stats](https://github-readme-stats.vercel.app/api?username=RahulNaik2611&show_icons=true&theme=tokyonight)
 
-</div>
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNaik2611&layout=compact&theme=tokyonight)
 
----
+------------------------------------------------------------------------
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahulnaik-banavath-293699367">
-    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" />
-  </a>
-  <a href="mailto:banavathrahulnaik26@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Email" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white&label=Portfolio" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banavathrahulnaik26@gmail.com)
 
----
+------------------------------------------------------------------------
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=RahulNaik2611&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge)
-
-</div>
+⭐ *If you like my work, consider giving a star to my repositories!*
