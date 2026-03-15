@@ -1,45 +1,43 @@
 ::: {align="center"}
 # 🚀 B. Rahul Naik
 
-### Backend Developer \| Data Engineer \| Java & Spring Boot Enthusiast
+### Java Backend Developer \| Spring Boot \| SQL \| Data Engineering \| Power BI
 
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Spring+Boot+Specialist;SQL+and+Database+Engineer;Power+BI+Data+Analyst;Building+Scalable+APIs;Always+Learning+New+Tech)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+Microservices+Engineer;SQL+and+Database+Optimization;Power+BI+Data+Analyst;Building+Scalable+REST+APIs;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 :::
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 My Story
+# 👨‍💻 About Me
 
-Hello! I'm **B. Rahul Naik**, a passionate **Backend Developer and Data
-Enthusiast** based in India.
+Hello! I'm **B Rahul Naik**, a passionate **Backend Developer and Data
+Enthusiast**.
 
-I completed my **B.Tech in Mechanical Engineering (2022)**, but my
-curiosity for technology led me into the world of **software development
-and data engineering**.
+I completed my **B.Tech in Mechanical Engineering (2022)** but
+discovered my real passion in **software engineering and data systems**.
 
-My professional journey started as a **PHP Developer**, and later I
-transitioned into a **Quality Engineer role at PwC**. Along the way, I
-continuously invested time in learning **Java backend development,
-databases, and data analysis tools**.
+My career journey began as a **PHP Developer**, and later I transitioned
+into a **Quality Engineer role at PwC** where I work with enterprise
+systems.
 
-Today I focus on building:
+Alongside my professional work, I have built strong expertise in:
 
--   Scalable **Spring Boot backend applications**
--   Efficient **REST APIs**
--   Optimized **SQL database systems**
--   Insightful **Power BI dashboards**
+• **Java Backend Development** • **Spring Boot API Development** • **SQL
+& Database Design** • **Data Analysis with Power BI** • **Backend System
+Architecture**
 
-I strongly believe in **continuous learning**, and I am currently
-exploring:
+I strongly believe in **continuous learning and building real-world
+projects**.
 
--   **Generative AI**
--   **Advanced System Design**
--   **Flask & Python APIs**
+Currently exploring:
+
+• **Generative AI** • **System Design** • **Microservices Architecture**
+• **Advanced SQL Optimization**
 
 ------------------------------------------------------------------------
 
-# 🧠 Skills & Technologies
+# 🧠 Tech Stack
 
 ## 🚀 Backend Development
 
@@ -47,85 +45,131 @@ exploring:
 ![Spring
 Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST
-API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Servlets](https://img.shields.io/badge/Java_Servlets-red?style=for-the-badge)
-![JDBC](https://img.shields.io/badge/JDBC-blue?style=for-the-badge)
+API](https://img.shields.io/badge/REST_API-blue?style=for-the-badge)
+![Servlets](https://img.shields.io/badge/Servlets-red?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-orange?style=for-the-badge)
 
-## 🧩 Programming Languages
+## 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
 
 ## 💾 Databases
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ## 📊 Data & Analytics
 
 ![Power
-BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel)
+
+------------------------------------------------------------------------
+
+# 🚀 Highlight Projects
+
+## 📚 Library Management System
+
+A **Spring Boot backend application** implementing complete CRUD
+operations for managing books, users, and transactions.
+
+Tech Stack\
+Java • Spring Boot • SQL • REST APIs
+
+------------------------------------------------------------------------
+
+## 🗳 Voting Application
+
+A **Java MVC architecture project** demonstrating dependency injection,
+layered architecture, and backend business logic.
+
+Tech Stack\
+Java • Spring • MVC
+
+------------------------------------------------------------------------
+
+## 📝 Todo REST API
+
+A backend API designed to manage tasks using RESTful endpoints and JSON
+responses.
+
+Tech Stack\
+Java • REST APIs
+
+------------------------------------------------------------------------
+
+## 🧮 Spring Boot Calculator API
+
+A backend calculator service demonstrating API endpoints and backend
+logic.
+
+Tech Stack\
+Spring Boot • Java
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Analytics
+
+![Rahul GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=RahulNaik2611&show_icons=true&theme=tokyonight)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNaik2611&layout=compact&theme=tokyonight)
+
+![Activity
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulNaik2611&theme=react-dark)
 
 ------------------------------------------------------------------------
 
 # 📚 Learning & Acknowledgements
 
-### Special Thanks to **Data With Baraa**
+Special thanks to **Data With Baraa** for outstanding SQL tutorials and
+real-world database projects that helped strengthen my **data analysis
+and SQL skills**.
 
-Many of my **SQL skills and data analysis projects** were inspired by
-the excellent tutorials from **Data With Baraa**.
-
-His teaching style focuses on **real-world SQL problems, database
-design, and analytical thinking**, which helped me significantly
-strengthen my **SQL fundamentals and data analysis workflow**.
-
-📺 YouTube: https://www.youtube.com/c/DatawithBaraa
+YouTube\
+https://www.youtube.com/c/DatawithBaraa
 
 ------------------------------------------------------------------------
 
-# 🚀 Featured Projects
+# 🧠 Currently Studying
 
-  -----------------------------------------------------------------------
-  Project                 Description             Tech
-  ----------------------- ----------------------- -----------------------
-  **Library Management    Full CRUD backend       Spring Boot, SQL
-  System**                system for managing     
-                          books and users         
-
-  **Voting Application**  MVC based voting system Java, Spring
-                          using Java & Spring     
-
-  **Todo Tracker API**    REST API based task     Java, REST
-                          management application  
-
-  **Spring Boot           Simple backend          Spring Boot
-  Calculator API**        calculator service      
-  -----------------------------------------------------------------------
-
-Explore more projects here 👇
-
-➡️ **https://github.com/RahulNaik2611**
+• System Design Fundamentals\
+• Microservices Architecture\
+• Backend Performance Optimization\
+• Generative AI
 
 ------------------------------------------------------------------------
 
-# 📊 GitHub Stats
+# 💼 Open To Opportunities
 
-![Rahul's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=RahulNaik2611&show_icons=true&theme=tokyonight)
+I am currently open to roles in:
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNaik2611&layout=compact&theme=tokyonight)
+• **Java Backend Development**\
+• **Spring Boot Engineer**\
+• **Data Engineering**\
+• **SQL / Data Analyst**
+
+If you're looking for someone passionate about **building scalable
+backend systems and working with data**, feel free to connect.
 
 ------------------------------------------------------------------------
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banavathrahulnaik26@gmail.com)
+LinkedIn\
+https://www.linkedin.com/in/rahulnaik-banavath-293699367
+
+Email\
+banavathrahulnaik26@gmail.com
+
+GitHub\
+https://github.com/RahulNaik2611
 
 ------------------------------------------------------------------------
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ *If you find my work interesting, consider giving a star to my
+repositories!*
